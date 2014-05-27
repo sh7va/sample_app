@@ -26,7 +26,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0921986" vertical-offset="462" max-vertical-offset="1122">
+            <state line="5" column="0" selection-start="117" selection-end="117" vertical-scroll-proportion="0.20094563" vertical-offset="0" max-vertical-offset="1122">
               <folding />
             </state>
           </provider>
@@ -42,6 +42,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/README.rdoc" />
         <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
@@ -299,7 +300,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0921986" vertical-offset="462" max-vertical-offset="1122">
+        <state line="5" column="0" selection-start="117" selection-end="117" vertical-scroll-proportion="0.20094563" vertical-offset="0" max-vertical-offset="1122">
           <folding />
         </state>
       </provider>
